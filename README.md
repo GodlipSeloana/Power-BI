@@ -10,9 +10,9 @@ Key Findings:
 4.	Gender Analysis: The data professional community is predominantly male, with approximately 74% of respondents identifying as male and 26% as female.
 
 Key Insights:
-1	Salary Trends: There is a positive correlation between education level and salary, with data professionals holding advanced degrees earning higher salaries on average.
-2	Regional Disparities: Salary levels vary significantly by country, with data professionals in certain regions earning substantially higher salaries than others.
-3	Emerging Technologies: Python continues to dominate as the preferred coding language among data professionals, reflecting its versatility and widespread adoption in data analysis and machine learning.
+1.	Salary Trends: There is a positive correlation between education level and salary, with data professionals holding advanced degrees earning higher salaries on average.
+2.	Regional Disparities: Salary levels vary significantly by country, with data professionals in certain regions earning substantially higher salaries than others.
+3.	Emerging Technologies: Python continues to dominate as the preferred coding language among data professionals, reflecting its versatility and widespread adoption in data analysis and machine learning.
 
 Conclusion:
 In conclusion, the insights derived from this survey provide valuable guidance for organizations, educators, and professionals seeking to navigate and thrive in the evolving data-driven landscape. By understanding the preferences, demographics, and trends among data professionals, stakeholders can make informed decisions to optimize talent acquisition, training programs, and resource allocation in the data-driven ecosystem.
